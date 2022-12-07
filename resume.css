@@ -1,0 +1,56 @@
+.header{
+    color:blue;
+}
+.sub{
+  width:100%;
+}
+.left{
+    float:left;
+    width:19%;
+    row-gap:inherit;
+}
+.right{
+    float:right;
+    width:80%;
+}
+.line{
+ background:rgb(247,211,8);
+ list-style:inside;
+ border-width:1px;
+ border-color:rgb(247,211,8);
+}
+.list li{
+    list-style:"->"
+}
+.button{
+border-style:none;
+}
+.same_head{
+    color:blue;
+    font-size:900;
+}
+.blue{
+    color:blue;
+}
+.sub_left{
+    width:100%;
+}
+.pre{
+    font-weight:300;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.mail::before{
+    content:"@"
+}
+.link::before{
+     content:
+}
+.mobile::before{
+    content:
+}
+.address::before{
+    content:
+}
+.date::before{
+    content:
+}
